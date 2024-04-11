@@ -1,0 +1,11 @@
+There are currently 7 astronauts on the ISS:
+
+{'name': 'Jasmin Moghbeli', 'craft': 'ISS'} - on board
+{'name': 'Andreas Mogensen', 'craft': 'ISS'} - on board
+{'name': 'Satoshi Furukawa', 'craft': 'ISS'} - on board
+{'name': 'Konstantin Borisov', 'craft': 'ISS'} - on board
+{'name': 'Oleg Kononenko', 'craft': 'ISS'} - on board
+{'name': 'Nikolai Chub', 'craft': 'ISS'} - on board
+{'name': "Loral O'Hara", 'craft': 'ISS'} - on board
+
+Your current lat / long is: [12.9719, 77.5937]
